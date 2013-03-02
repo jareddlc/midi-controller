@@ -6,6 +6,7 @@
  */
 
 // MIDI Messages.          http://www.blitter.com/~russtopia/MIDI/~jglatt/tech/midispec.htm
+//                         http://www.electronics.dit.ie/staff/tscarff/Music_technology/midi/midi_messages.htm
 // Note On/Off:            message(status on/off, pitch/note, velocity).
 // Controller:             message(states, controller #0-127, value).
 // Program Change:         message(status, program #0-127).
